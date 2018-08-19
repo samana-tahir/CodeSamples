@@ -10,4 +10,8 @@
 
 @implementation teststaticlib
 
+
+
+
+////////
 @end
